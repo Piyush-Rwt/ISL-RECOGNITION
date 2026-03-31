@@ -15,9 +15,7 @@ __pycache__/
 # Environment variables
 .env
 
-# Model / large files (optional but recommended)
-*.pth
-*.pt
+
 
 # OS files
 .DS_Store
