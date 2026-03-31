@@ -1,0 +1,27 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Model / large files (optional but recommended)
+*.pth
+*.pt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
