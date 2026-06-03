@@ -96,4 +96,4 @@ The core is a Deep Multi-Layer Perceptron (MLP) with 5 hidden layers:
 *   **Mobile Deployment**: Converting the model to ONNX for Android/iOS integration.
 
 ---
-**Developed by [Your Name]** | *Project ATHENA - Empowering communication through technology.*
+**Developed by [Piyush Rawat]** | *Project ATHENA - Empowering communication through technology.*
